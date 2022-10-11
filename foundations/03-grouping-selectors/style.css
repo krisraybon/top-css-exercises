@@ -1,4 +1,14 @@
-.clickbutton {
+.yesclickbutton,
+.noclickbutton {
     font-size: 28px;
     font-family: Helvetica, Times New Roman, sans-serif;
+}
+
+.yesclickbutton {
+    background-color: black;
+    color: white;
+}
+
+.noclickbutton {
+    background-color: yellow;
 }
