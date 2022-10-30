@@ -21,6 +21,10 @@ ul {
   padding-inline-start: initial;
 }
 
+li {
+  margin: 10px;
+}
+
 a {
   font-size: 22px;
   background: white;
@@ -30,5 +34,9 @@ a {
 }
 
 .left-links {
+padding-left: 30px;
+}
 
+.right-links {
+  padding-right: 30px;
 }
