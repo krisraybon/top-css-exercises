@@ -16,7 +16,7 @@ img {
   /* border: 2px solid red */
 }
 
-.plants {
+.container {
   display: flex;
   justify-content: center;
   /* border: 2px solid red */
