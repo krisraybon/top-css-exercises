@@ -23,6 +23,10 @@ body {
   padding: 20px;
 }
 
+.container {
+  display: flex;
+}
+
 .icon {
   color: royalblue;
   font-size: 26px;
