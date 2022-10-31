@@ -25,6 +25,9 @@ img {
 .barberry, .chili, .pepper, .saffron {
   border: 2px solid red;
   text-align: center;
+  width: 200px;
+  flex: 1;
+  gap: 52px;
 }
 
 /* do not edit this footer */
