@@ -13,7 +13,7 @@ img {
   display: flex;
   justify-content: center;
   margin: 32px;
-  border: 2px solid red
+  /* border: 2px solid red */
 }
 
 .plants {
@@ -26,8 +26,8 @@ img {
   /* border: 2px solid red */
   text-align: center;
   width: 200px;
-  /* flex: 1; */
-  gap: 52px;
+  /* flex: 1;
+  gap: 52px; */
   padding: 0px 52px;
 }
 
