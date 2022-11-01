@@ -16,6 +16,7 @@ button {
   border: none;
   border-radius: 8px;
   background: #eee;
+  padding: 5px;
 }
 
 input {
@@ -30,6 +31,10 @@ ul {
   list-style-type: none;
 }
 
+li {
+  padding: 5px;
+}
+
 a:link {
   color: gray;
   text-decoration: none;
@@ -42,6 +47,10 @@ a:link {
 
 ul {
   display: flex;
+}
+
+.content {
+  text-align: center;
 }
 
 
