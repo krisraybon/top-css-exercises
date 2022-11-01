@@ -51,6 +51,7 @@ a:link {
 .header, .footer {
   display: flex;
   justify-content: space-between;
+  padding: 10px;
 }
 
 ul {
@@ -59,6 +60,7 @@ ul {
 
 .content {
   text-align: center;
+  align-content: center;
 }
 
 .footer {
