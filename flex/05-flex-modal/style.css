@@ -24,8 +24,9 @@ body {
 }
 
 .container {
-  /* display: flex; */
-  position: relative;
+  display: flex;
+  /* position: relative;
+  flex: 1; */
 }
 
 .icon {
@@ -39,6 +40,13 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  /* position: absolute; */
+  border: 2px solid red;
+  flex-shrink: 0;
+}
+
+.header {
+  display: flex;
 }
 
 .close-button {
