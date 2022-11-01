@@ -20,20 +20,22 @@ body {
   width: 480px;
   border-radius: 10px;
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
-  padding: 20px;
+  padding: 10px;
 }
 
 .container {
   display: flex;
   /* position: relative;
   flex: 1; */
-  flex-flow: row nowrap;
+  gap: 5px;
 }
 
 .flex-item {
   display: flex;
   flex-flow: row wrap;
-
+  /* border: 2px solid red; */
+  gap: 10px;
+  margin: 5px;
 }
 
 .icon {
@@ -48,7 +50,6 @@ body {
   align-items: center;
   justify-content: center;
   /* position: absolute; */
-  border: 2px solid red;
   flex: none;
 }
 
