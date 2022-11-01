@@ -27,6 +27,7 @@ body {
   display: flex;
   /* position: relative;
   flex: 1; */
+  flex-flow: row wrap;
 }
 
 .icon {
@@ -46,7 +47,7 @@ body {
 }
 
 .header {
-  flex: 1;
+  flex: 3;
 }
 
 .close-button {
