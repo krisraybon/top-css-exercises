@@ -23,6 +23,7 @@ body {
   width: 300px;
   background: royalblue;
   border: 2px solid red;
+  display: flex;
 
 }
 
