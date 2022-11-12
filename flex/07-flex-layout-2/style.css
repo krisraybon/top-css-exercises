@@ -30,6 +30,10 @@ body {
   flex: none;
 }
 
+.sidebar ul {
+  list-style-type: none;
+}
+
 .container {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
