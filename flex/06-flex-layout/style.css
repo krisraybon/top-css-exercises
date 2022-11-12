@@ -67,6 +67,7 @@ ul {
 .content {
   text-align: center;
   align-content: center;
+  margin: auto;
 }
 
 .footer {

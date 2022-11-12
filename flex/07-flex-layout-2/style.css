@@ -8,21 +8,28 @@ body {
   height: 72px;
   background: darkmagenta;
   color: white;
+  border: 2px solid red;
 }
 
 .footer {
   height: 72px;
   background: #eee;
   color: darkmagenta;
+  border: 2px solid red;
+
 }
 
 .sidebar {
   width: 300px;
   background: royalblue;
+  border: 2px solid red;
+
 }
 
 .card {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
+  border: 2px solid red;
+
 }
