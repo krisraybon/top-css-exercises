@@ -10,10 +10,12 @@ body {
 }
 
 .header {
-  height: 72px;
+  /* height: 72px; */
   background: darkmagenta;
   color: white;
   /* border: 2px solid red; */
+  margin: auto;
+  padding: 15px;
 }
 
 .footer {
